@@ -51,14 +51,6 @@
 | GoGoAnime | [https://gogoanime.pe/](https://gogoanime.pe/) | ✅ |
 | ZoroAnime | [https://zoro.to/](https://zoro.to/) | ✅ |
 | AnimePahe | [https://animepahe.com/](https://animepahe.com/) | ✅ |
-| 9AnimeTV | [https://9animetv.to/](https://9animetv.to/) | ❌ |
-| MyAnimeList | [https://myanimelist.net/](https://myanimelist.net/) | ❌ |
-| AniList | [https://anilist.co/](https://anilist.co/) | ❌ |
-| Crunchyroll | [https://crunchyroll.com/](https://crunchyroll.com/) | ❌ |
-| Funimation | [https://funimation.com/](https://funimation.com/) | ❌ |
-| HIDIVE | [https://hidive.com/](https://hidive.com/) | ❌ |
-| Anime Planet | [https://www.anime-planet.com/](https://www.anime-planet.com/) | ❌ |
-| AnimeKai | [https://animekai.to/](https://animekai.to/) | ❌ |
 
 ### Hentai
 
@@ -69,9 +61,6 @@
 | Source Name | Source URL | Status |
 |-------------|---------|---------|
 | hanime | [https://hanime.tv/](https://hanime.tv/) | ✅ |
-| Hentai Haven | [https://hentaihaven.xxx/](https://hentaihaven.xxx/) | ❌ |
-| Rule34Video | [https://rule34video.com/](https://rule34video.com/) | ❌ |
-| Simply Hentai | [https://www.simply-hentai.com/](https://www.simply-hentai.com/) | ❌ |
 
 ## 📥 Installation
 To install and run Dynamo, follow the steps below:
