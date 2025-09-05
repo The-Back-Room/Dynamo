@@ -7,13 +7,6 @@
 ## Overview
 🚀 Dynamo is a cross-platform application for streaming anime from external sources. It uses media players like MPV and VLC to provide a seamless viewing experience.
 
-> [!NOTE]
-> - Dynamo is not affiliated with any anime streaming services. It simply provides a way to access publicly available content through supported sources.
-> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
-> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
-> - Always use the latest version of Dynamo to ensure compatibility with supported sources.
-> - A list of changes and updates can be found in the [CHANGELOG](./CHANGELOG.md).
-
 ## ✨ Features
 
 - 📺 Stream anime from various sources  
@@ -104,9 +97,13 @@ Thanks to all the contributors who have helped make Dynamo better!
 - [SaverinOnRails](https://github.com/SaverinOnRails) - Creator and maintainer of Dynamo.
 - [OG-Nimbi](https://github.com/OG-Nimbi) - Minor updates and improvements.
 
-## ⚠️ Legal Disclaimer
+## ⚠️ Disclaimer
 
 > [!WARNING]
 > - This application is intended for educational and personal use only. Please ensure you have the right to access and stream the content you choose to view.
 > - The developers of Dynamo are not responsible for any legal issues arising from the use of this application. Always use legal and ethical means to access content.
 > - Please respect copyright laws and the rights of content creators.
+> - This application does not host any content. It merely provides a way to stream content from external sources.
+> - Dynamo is not affiliated with any anime streaming services. It simply provides a way to access publicly available content through supported sources.
+> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
+> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
