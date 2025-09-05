@@ -16,10 +16,10 @@
 
 ## Screenshots
 
-![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/ScreenShots/Screenshot%20(2).png)  
+![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(2).png)  
 *1. Browse through hundreds of popular anime*  
 
-![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/ScreenShots/Screenshot%20(3).png)  
+![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(3).png)  
 *2. Stream your favorite anime using external media players like VLC and MPV*  
 
 ## 📚 Supported Sources
