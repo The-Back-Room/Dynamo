@@ -101,8 +101,8 @@ If you encounter any bugs or have feature requests, please open an issue on the 
 ### 🙏 Contributors
 Thanks to all the contributors who have helped make Dynamo better!
 
-- [SaverinOnRails](https://github.com/SaverinOnRails) - Creator and maintainer of Dynamo.
-- [OG-Nimbi](https://github.com/OG-Nimbi) - Minor updates and improvements.
+- [SaverinOnRails](https://github.com/SaverinOnRails) - Creator and maintainer of Dynamo
+- [OG-Nimbi](https://github.com/OG-Nimbi) - [README](./README.md) and [CHANGELOG](./CHANGELOG.md) files
 
 ## ⚠️ Disclaimer
 
