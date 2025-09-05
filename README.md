@@ -16,11 +16,13 @@
 
 ## Screenshots
 
-![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(2).png)  
-<center>Browse through hundreds of popular anime</center>
-
-![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(3).png)  
-<center>Stream your favorite anime using external media players like VLC and MPV</center>
+<center>
+<img src="./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(2).png" alt="Main Window">
+<p>Browse through hundreds of popular anime</p>
+<br />
+<img src="./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(3).png" alt="Anime List">
+<p>Stream your favorite anime using external media players like VLC and MPV</p>
+</center>
 
 ## 📚 Sources
 
