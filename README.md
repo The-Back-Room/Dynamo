@@ -146,9 +146,6 @@ Please ensure your code adheres to the existing style and includes appropriate t
 ### 🐛 Reporting Issues
 If you encounter any bugs or have feature requests, please open an issue on the [GitHub Issues page](https://github.com/SaverinOnRails/Dynamo/issues).
 
-### 📜 License
-Dynamo is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the software as per the terms of the license.
-
 ### 🙏 Contributors
 Thanks to all the contributors who have helped make Dynamo better!
 
