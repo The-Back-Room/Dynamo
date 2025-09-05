@@ -27,6 +27,14 @@
 > [!NOTE]
 > - Sources marked with ✅ are currently supported in Dynamo.
 > - Sources marked with ❌ are not currently supported but *may* be added in future updates.
+> If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
+
+> [!WARNING]
+> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
+> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
+> - Always use legal and ethical means to access content.
+> - The developers of Dynamo are not responsible for any legal issues arising from the use of this application.
+> - Please respect copyright laws and the rights of content creators.
 
 ### Anime
 
@@ -46,7 +54,6 @@
 
 
 ### Hentai
-
 
 | Source Name | Website | Status |
 |-------------|---------|---------|
