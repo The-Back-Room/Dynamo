@@ -4,9 +4,20 @@
 <img src="./Dynamo%20Desktop/Assets/Images/Dynamo.png" alt="Dynamo Logo" width="100%" />
 </center>
 
-## Overview
+> [!WARNING]
+> - This application is intended for educational and personal use only. Please ensure you have the right to access and stream the content you choose to view.
+> - The developers of Dynamo are not responsible for any legal issues arising from the use of this application. Always use legal and ethical means to access content.
+> - Please respect copyright laws and the rights of content creators.
 
+## Overview
 🚀 Dynamo is a cross-platform application for streaming anime from external sources. It uses media players like MPV and VLC to provide a seamless viewing experience.
+
+> [!NOTE]
+> - Dynamo is not affiliated with any anime streaming services. It simply provides a way to access publicly available content through supported sources.
+> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
+> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
+> - Always use the latest version of Dynamo to ensure compatibility with supported sources.
+> - A list of changes and updates can be found in the [CHANGELOG](./CHANGELOG.md).
 
 ## ✨ Features
 
@@ -33,13 +44,6 @@
 > - Sources marked with ❌ are not currently supported but *may* be added in future updates.
 > - If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
 
-> [!WARNING]
-> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
-> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
-> - Always use legal and ethical means to access content.
-> - The developers of Dynamo are not responsible for any legal issues arising from the use of this application.
-> - Please respect copyright laws and the rights of content creators.
-
 ### Anime
 
 | Source Name | Source URL | Status |
@@ -56,8 +60,11 @@
 | Anime Planet | [https://www.anime-planet.com/](https://www.anime-planet.com/) | ❌ |
 | AnimeKai | [https://animekai.to/](https://animekai.to/) | ❌ |
 
-
 ### Hentai
+
+> [!WARNING]
+> - Hentai content is intended for adults only. Please ensure you are of legal age in your jurisdiction before accessing such content.
+> - Some sources may contain explicit content. Viewer discretion is advised.
 
 | Source Name | Source URL | Status |
 |-------------|---------|---------|
@@ -66,10 +73,11 @@
 | Rule34Video | [https://rule34video.com/](https://rule34video.com/) | ❌ |
 | Simply Hentai | [https://www.simply-hentai.com/](https://www.simply-hentai.com/) | ❌ |
 
-
 ## 📥 Installation
+To install and run Dynamo, follow the steps below:
 
 ### Prerequisites
+Requirements vary based on whether you are using the pre-built executable or building from source.
 
 #### If using the pre-built executable:
 
@@ -85,11 +93,13 @@
 ### Steps
 
 #### Using Pre-built Executable (Recommended for Users)
+The easiest way to get started with Dynamo is by using the pre-built executable.
 
 1. Download the latest `.exe` file from the [releases page](https://github.com/SaverinOnRails/Dynamo/releases).  
 2. Run the executable and follow the on-screen instructions.  
 
 #### Building from Source (For Developers)
+Developers and advanced users can build Dynamo from source.
 
 1. Clone the repository:  
    ```sh
@@ -114,6 +124,7 @@
    ```
 
 ### 📖 Usage
+Once you have Dynamo installed and running, follow these steps to start streaming anime:
 
 1. Open the application.  
 2. Select a source *(e.g., Gogoanime, Animepahe)*.  
@@ -121,7 +132,6 @@
 4. Choose a media player *(MPV or VLC)* and start streaming.
 
 ### 🤝 Contributing
-
 We welcome contributions from the community! Here’s how you can get involved:
 
 1. Fork the repository.
@@ -132,3 +142,15 @@ We welcome contributions from the community! Here’s how you can get involved:
 6. Open a pull request.
 
 Please ensure your code adheres to the existing style and includes appropriate tests.
+
+### 🐛 Reporting Issues
+If you encounter any bugs or have feature requests, please open an issue on the [GitHub Issues page](https://github.com/SaverinOnRails/Dynamo/issues).
+
+### 📜 License
+Dynamo is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the software as per the terms of the license.
+
+### 🙏 Contributors
+Thanks to all the contributors who have helped make Dynamo better!
+
+- [SaverinOnRails](https://github.com/SaverinOnRails): Creator and maintainer of Dynamo.
+- [The Back Room](https://the-back-room.info): Minor updates and improvements.
