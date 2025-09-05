@@ -1,6 +1,8 @@
 # 🎥 Dynamo
 
+<center>
 <img src="./Dynamo%20Desktop/Assets/Images/Dynamo.png" alt="Dynamo Logo" width="100%" />
+</center>
 
 ## Overview
 
