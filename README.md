@@ -77,29 +77,12 @@
 To install and run Dynamo, follow the steps below:
 
 ### Prerequisites
-Requirements vary based on whether you are using the pre-built executable or building from source.
-
-#### If using the pre-built executable:
-
-- [.NET Runtime](https://dotnet.microsoft.com/download) (Version 6.0 or later)
-- [MPV](https://mpv.io/installation/) or [VLC](https://www.videolan.org/vlc/)
-
-#### If building from source:
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (Version 6.0 or later)
 - [Git](https://git-scm.com/)
 - [MPV](https://mpv.io/installation/) or [VLC](https://www.videolan.org/vlc/)  
 
 ### Steps
-
-#### Using Pre-built Executable (Recommended for Users)
-The easiest way to get started with Dynamo is by using the pre-built executable.
-
-1. Download the latest `.exe` file from the [releases page](https://github.com/SaverinOnRails/Dynamo/releases).  
-2. Run the executable and follow the on-screen instructions.  
-
-#### Building from Source (For Developers)
-Developers and advanced users can build Dynamo from source.
 
 1. Clone the repository:  
    ```sh
