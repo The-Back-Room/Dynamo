@@ -4,11 +4,6 @@
 <img src="./Dynamo%20Desktop/Assets/Images/Dynamo.png" alt="Dynamo Logo" width="100%" />
 </center>
 
-> [!WARNING]
-> - This application is intended for educational and personal use only. Please ensure you have the right to access and stream the content you choose to view.
-> - The developers of Dynamo are not responsible for any legal issues arising from the use of this application. Always use legal and ethical means to access content.
-> - Please respect copyright laws and the rights of content creators.
-
 ## Overview
 🚀 Dynamo is a cross-platform application for streaming anime from external sources. It uses media players like MPV and VLC to provide a seamless viewing experience.
 
@@ -38,29 +33,14 @@
 </center>
 
 ## 📚 Sources
-
-> [!NOTE]
-> - Sources marked with ✅ are currently supported in Dynamo.
-> - Sources marked with ❌ are not currently supported but *may* be added in future updates.
-> - If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
-
 ### Anime
 
-| Source Name | Source URL | Status |
-|-------------|---------|---------|
-| GoGoAnime | [https://gogoanime.pe/](https://gogoanime.pe/) | ✅ |
-| ZoroAnime | [https://zoro.to/](https://zoro.to/) | ✅ |
-| AnimePahe | [https://animepahe.com/](https://animepahe.com/) | ✅ |
-
-### Hentai
-
-> [!WARNING]
-> - Hentai content is intended for adults only. Please ensure you are of legal age in your jurisdiction before accessing such content.
-> - Some sources may contain explicit content. Viewer discretion is advised.
-
-| Source Name | Source URL | Status |
-|-------------|---------|---------|
-| hanime | [https://hanime.tv/](https://hanime.tv/) | ✅ |
+| Source | Website |
+|-------------|---------|
+| GoGoAnime | [https://gogoanime.pe/](https://gogoanime.pe/) |
+| ZoroAnime | [https://zoro.to/](https://zoro.to/) |
+| AnimePahe | [https://animepahe.com/](https://animepahe.com/) |
+| hanime | [https://hanime.tv/](https://hanime.tv/) |
 
 ## 📥 Installation
 To install and run Dynamo, follow the steps below:
@@ -123,3 +103,10 @@ Thanks to all the contributors who have helped make Dynamo better!
 
 - [SaverinOnRails](https://github.com/SaverinOnRails) - Creator and maintainer of Dynamo.
 - [OG-Nimbi](https://github.com/OG-Nimbi) - Minor updates and improvements.
+
+## ⚠️ Legal Disclaimer
+
+> [!WARNING]
+> - This application is intended for educational and personal use only. Please ensure you have the right to access and stream the content you choose to view.
+> - The developers of Dynamo are not responsible for any legal issues arising from the use of this application. Always use legal and ethical means to access content.
+> - Please respect copyright laws and the rights of content creators.
