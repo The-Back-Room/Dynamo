@@ -152,5 +152,5 @@ Dynamo is licensed under the [MIT License](./LICENSE). Feel free to use, modify,
 ### 🙏 Contributors
 Thanks to all the contributors who have helped make Dynamo better!
 
-- [SaverinOnRails](https://github.com/SaverinOnRails)   |   Creator and maintainer of Dynamo.
-- [The Back Room](https://the-back-room.info)   |   Minor updates and improvements.
+|   [SaverinOnRails](https://github.com/SaverinOnRails)   |   Creator and maintainer of Dynamo. |
+|   [The Back Room](https://the-back-room.info)   |   Minor updates and improvements.   |
