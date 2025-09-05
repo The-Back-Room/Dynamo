@@ -29,10 +29,9 @@
 ## 📚 Sources
 
 > [!NOTE]
-> If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
-> 
 > - Sources marked with ✅ are currently supported in Dynamo.
-> - Sources marked with ❌ are not currently supported but *may* be added in future updates.  
+> - Sources marked with ❌ are not currently supported but *may* be added in future updates.
+> - If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
 
 > [!WARNING]
 > - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
@@ -43,29 +42,29 @@
 
 ### Anime
 
-| Source Name | Website | Status |
+| Source Name | Source URL | Status |
 |-------------|---------|---------|
-| Gogoanime | [https://gogoanime.pe/](https://gogoanime.pe/) | ✅ |
+| GoGoAnime | [https://gogoanime.pe/](https://gogoanime.pe/) | ✅ |
 | ZoroAnime | [https://zoro.to/](https://zoro.to/) | ✅ |
-| Animepahe | [https://animepahe.com/](https://animepahe.com/) | ✅ |
+| AnimePahe | [https://animepahe.com/](https://animepahe.com/) | ✅ |
 | 9AnimeTV | [https://9animetv.to/](https://9animetv.to/) | ❌ |
 | MyAnimeList | [https://myanimelist.net/](https://myanimelist.net/) | ❌ |
 | AniList | [https://anilist.co/](https://anilist.co/) | ❌ |
 | Crunchyroll | [https://crunchyroll.com/](https://crunchyroll.com/) | ❌ |
 | Funimation | [https://funimation.com/](https://funimation.com/) | ❌ |
 | HIDIVE | [https://hidive.com/](https://hidive.com/) | ❌ |
-| Anime-Planet | [https://www.anime-planet.com/](https://www.anime-planet.com/) | ❌ |
+| Anime Planet | [https://www.anime-planet.com/](https://www.anime-planet.com/) | ❌ |
 | AnimeKai | [https://animekai.to/](https://animekai.to/) | ❌ |
 
 
 ### Hentai
 
-| Source Name | Website | Status |
+| Source Name | Source URL | Status |
 |-------------|---------|---------|
-| hAnime | [https://hanime.tv/](https://hanime.tv/) | ✅ |
-| HentaiHaven | [https://hentaihaven.xxx/](https://hentaihaven.xxx/) | ❌ |
+| hanime | [https://hanime.tv/](https://hanime.tv/) | ✅ |
+| Hentai Haven | [https://hentaihaven.xxx/](https://hentaihaven.xxx/) | ❌ |
 | Rule34Video | [https://rule34video.com/](https://rule34video.com/) | ❌ |
-| Simply-Hentai | [https://www.simply-hentai.com/](https://www.simply-hentai.com/) | ❌ |
+| Simply Hentai | [https://www.simply-hentai.com/](https://www.simply-hentai.com/) | ❌ |
 
 
 ## 📥 Installation
