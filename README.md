@@ -29,10 +29,10 @@
 ## 📚 Sources
 
 > [!NOTE]
+> If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
+> 
 > - Sources marked with ✅ are currently supported in Dynamo.
 > - Sources marked with ❌ are not currently supported but *may* be added in future updates.  
->  
-> If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
 
 > [!WARNING]
 > - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
