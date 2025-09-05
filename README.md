@@ -30,7 +30,7 @@
 
 > [!NOTE]
 > - Sources marked with ✅ are currently supported in Dynamo.
-> - Sources marked with ❌ are not currently supported but *may* be added in future updates.
+> - Sources marked with ❌ are not currently supported but *may* be added in future updates.  
 > If you have a specific source you'd like to see supported, feel free to open an issue or submit a pull request!
 
 > [!WARNING]
