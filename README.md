@@ -22,9 +22,13 @@
 ![Dynamo Screenshot](./Dynamo%20Desktop/Assets/Images/Screenshots/Screenshot%20(3).png)  
 *2. Stream your favorite anime using external media players like VLC and MPV*  
 
-## 📚 Supported Sources
+## 📚 Sources
 
-### Anime Sources
+> [!NOTE]
+> - Sources marked with ✅ are currently supported in Dynamo.
+> - Sources marked with ❌ are not currently supported but may be added in future updates.
+
+### Anime
 
 | Source Name | Website | Status |
 |-------------|---------|---------|
@@ -36,7 +40,8 @@
 | AniList | [https://anilist.co](https://anilist.co) | ❌ |
 
 
-### Hentai Sources
+### Hentai
+
 
 | Source Name | Website | Status |
 |-------------|---------|---------|
@@ -49,9 +54,15 @@
 
 ### Prerequisites
 
-- [.NET 6.0 Runtime](https://dotnet.microsoft.com/download/dotnet/6.0) or later *(if using the .exe version)*  
-- [.NET SDK](https://dotnet.microsoft.com/download) *(if building from source)*
-- [Git](https://git-scm.com/) *(if building from source)*
+#### If using the pre-built executable:
+
+- [.NET Runtime](https://dotnet.microsoft.com/download) (Version 6.0 or later)
+- [MPV](https://mpv.io/installation/) or [VLC](https://www.videolan.org/vlc/)
+
+#### If building from source:
+
+- [.NET SDK](https://dotnet.microsoft.com/download) (Version 6.0 or later)
+- [Git](https://git-scm.com/)
 - [MPV](https://mpv.io/installation/) or [VLC](https://www.videolan.org/vlc/)  
 
 ### Steps
@@ -84,6 +95,7 @@
    cd "Dynamo Desktop"
    dotnet run
    ```
+
 ### 📖 Usage
 
 1. Open the application.  
