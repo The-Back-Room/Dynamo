@@ -26,6 +26,13 @@
 </center>
 
 ## 📚 Sources
+
+> [!NOTE]
+> - This application does not host any content. It merely provides a way to stream content from external sources.
+> - Dynamo is not affiliated with any anime streaming services. It simply provides a way to access publicly available content through supported sources.
+> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
+> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
+
 ### Anime
 
 | Source | Website |
@@ -103,7 +110,3 @@ Thanks to all the contributors who have helped make Dynamo better!
 > - This application is intended for educational and personal use only. Please ensure you have the right to access and stream the content you choose to view.
 > - The developers of Dynamo are not responsible for any legal issues arising from the use of this application. Always use legal and ethical means to access content.
 > - Please respect copyright laws and the rights of content creators.
-> - This application does not host any content. It merely provides a way to stream content from external sources.
-> - Dynamo is not affiliated with any anime streaming services. It simply provides a way to access publicly available content through supported sources.
-> - Some sources may have regional restrictions or require a subscription for access. Please ensure you comply with the terms of service of each source.
-> - The availability of sources may change over time, and some sources may become unavailable or unsupported.
